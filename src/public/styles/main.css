@@ -1,0 +1,22 @@
+body {
+  background: #488585; }
+
+hr {
+  border: solid 1px #9c2478;
+  width: 55vw;
+  margin: 0 auto; }
+
+.header {
+  text-align: center;
+  margin: 60px 0; }
+  .header h1 {
+    color: #124; }
+  .header p {
+    color: #212;
+    font-size: 24px; }
+
+.synth {
+  margin-top: 120px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
